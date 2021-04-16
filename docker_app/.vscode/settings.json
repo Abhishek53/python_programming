@@ -1,0 +1,12 @@
+{
+  "editor.detectIndentation": false,
+  "editor.fontSize": 12,
+  "editor.tabSize": 2,
+  "editor.autoIndent": "full",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "python.pythonPath": "/usr/local/bin/python",
+  "[python]": {
+    "editor.tabSize": 4
+  }
+}
